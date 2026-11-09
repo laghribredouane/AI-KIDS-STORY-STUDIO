@@ -1,0 +1,6 @@
+{
+  "name": "AI Kids Story Studio",
+  "description": "An AI-powered children's animated story production platform supporting Arabic (RTL), English (LTR), and French (LTR) with 3D character design, scene illustration, Veo video animation, multilingual voiceover, NLE video editing, human review gating, and YouTube Data API v3 private publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
